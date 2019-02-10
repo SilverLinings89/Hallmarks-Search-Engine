@@ -22,5 +22,5 @@ This array contains all data on all the articles used for training. Every item h
 |------|-------|---------|
 | id | string | "abc123" |
 | title | string | "Hallmarks of Cancer" |
-| URL | string | [link]("https://www.cell.com/cell/fulltext/S0092-8674(00)81683-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867400816839%3Fshowall%3Dtrue")|
+| URL | string | [link](https://www.cell.com/cell/fulltext/S0092-8674(00)81683-9)|
 |classification|[number]|[1.0,0.0,0.0,0.0,0.0,0.0]|
